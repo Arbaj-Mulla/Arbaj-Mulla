@@ -1,9 +1,8 @@
 ### Hello there 👋
+My name is Arbaj and I'm an Data Science Enthusiast interested in all things Python and Data!
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Knowledge exchange and information sharing
-- 📫 How to reach me mail me
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: i love to talk about video games and music
 
 <!---
