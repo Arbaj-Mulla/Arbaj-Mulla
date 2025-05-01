@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arbaj-Mulla
+### Hello there 👋
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Knowledge exchange and information sharing
