@@ -37,10 +37,10 @@ My focus lies in solving real-world problems through data, automation, and conti
 
 ### 📊 GitHub Snapshot  
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Arbaj-Mulla&show_icons=true&theme=default&hide_border=true" alt="Arbaj-Mulla's GitHub Stats" /> </p> <p
-
-align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arbaj-Mulla&theme=default&hide_border=true" alt="Arbaj-Mulla's GitHub Streak" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Arbaj-Mulla&show_icons=true&theme=default&hide_border=true" alt="Arbaj-Mulla's GitHub Stats" />
+</p> 
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=Arbaj-Mulla&theme=default&hide_border=true&v=1" alt="Arbaj-Mulla's GitHub Streak" /> 
 </p>
 
 ---
