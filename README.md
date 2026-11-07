@@ -46,13 +46,13 @@ My focus lies in solving real-world problems through data, automation, and conti
 
 ### 🌐 Let’s Connect   
 - LinkedIn: [Arbaj Mulla](https://www.linkedin.com/in/arbaj-m-6151a7127/)  
-- GitHub: [Arbaj-Mulla](https://github.com/Arbaj-Mulla?tab=repositories)  
+- GitHub: [Arbaj-Mulla](https://github.com/Arbaj-Mulla?tab=repositories)   
 
 ---
 
-<p align="center"><i>“Coding is the bridge between problems and possibilities.”</i></p>
+<p align="center"><i>“Coding is the bridge between problems and possibilities.”</i></p> 
 
 <!---
 Arbaj-Mulla/Arbaj-Mulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---> 
